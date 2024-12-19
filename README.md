@@ -21,11 +21,6 @@ This project demonstrates the creation and deployment of a Flask application usi
 
 ---
 
-### Architecture
-![Pipeline Architecture](path-to-architecture-image)
-
----
-
 ### Tools Used
 - **Jenkins**: Automates the CI/CD pipeline.
 - **Docker**: Containerizes the Flask application.
